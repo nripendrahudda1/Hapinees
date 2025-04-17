@@ -1,0 +1,56 @@
+import 'package:flutter/material.dart';
+
+class TAppColors {
+  static const Color transparent = Color(0x00000000);
+  static const Color white = Colors.white; // defalutwhite , ivory
+  static const Color containerColor = Color(0xFFFAFAFA);
+  static const Color containerColorDark = Color.fromRGBO(29, 36, 42, 1);
+  static const Color containerColorChipDark = Color.fromRGBO(51, 59, 66, 1);
+  static const Color disabledTxtField = Color(0xFFE8E8E8);
+  static const Color profileColor = Color.fromRGBO(243, 244, 246, 1);
+  static const Color inputBoxBorderColor = Color.fromRGBO(207, 216, 220, 1);
+  static const Color lightBorderColor = Color(0xFFDADADA);
+  static const Color lightGrayColor = Color(0xFFD9D9D9);
+  static const Color textImageBgColor = Color(0xFFF5F5F5);
+  static const Color cardBg = Color(0xFFF3F4F6); // primary200
+  static const Color primary100 = Color(0xFFE3F2FD);
+  static const Color venueCardColor = Color(0xFFFBFBFB);
+  static const Color venueCardColorDark = Color.fromRGBO(31, 44, 55, 1);
+  static const Color textFieldColor = Color(0xFFCFD8DC);
+  static const Color manageLocation = Color(0xFFEDEDEE);
+  static const Color white54 = Colors.white54;
+  static const Color blackShadow = Color.fromRGBO(0, 0, 0, 0.5);
+  static const Color black = Color(0xff000000);
+  static Color black50 = Colors.black.withOpacity(0.5);
+  static const Color eventScaffoldColor = Color(0xFF1F1F1F);
+  static const Color text1Color = Color(0xFF000000);
+  static const Color davyGrey = Color.fromRGBO(46, 44, 49, 1);
+  static const Color selectedTabBarBgColor = Color(0xFF3D3D3D);
+  static const Color venueCardTextColor = Color(0xFF4D4D4D); // appBarDarkGray // feedCardColor
+  static const Color text2Color = Color(0xFF444444);
+  static const Color text2ColorDark = Color(0xFF444444);
+  static const Color text3Color = Color(0xFF767676);
+  static const Color text4Color = Color(0xFF979797);
+  static const Color greyText = Color(0xFFB3B3B3); // text5Color
+  static const Color errorMessageback = Color.fromRGBO(255, 255, 255, 0.4);
+  static const Color ash = Color.fromRGBO(154, 159, 168, 1);
+  static const Color inputPlaceHolderColor = Color.fromRGBO(151, 151, 151, 1);
+  static const Color fossilGrey = Color.fromRGBO(221, 226, 229, 1);
+  static Color popupbackground = const Color.fromRGBO(218, 218, 218, 0.7).withOpacity(0.5);
+  static const Color subText = Color(0xFF607D8B);
+  static const Color orangeColor = Color.fromRGBO(244, 117, 34, 1);
+  static const Color login = Color.fromRGBO(245, 154, 48, 1.0);
+  static const Color orange = Color(0xFFFB8C00);
+  static const Color selectionColor = Color(0xFFF59A30); // orangeLite , orangeText
+  static const Color lightOrange = Color(0xFFFFE0B2);
+  static const Color buttonRed = Color(0xFFD02F44); // buttonRed
+  static const Color errorMessage = Color.fromRGBO(244, 67, 54, 1);
+  static const Color red = Color(0xFFF44336);
+  static const Color cerulean = Color.fromRGBO(27, 67, 110, 1);
+  static const Color saphireBlue = Color.fromRGBO(25, 91, 225, 1);
+  static const Color appColor = Color.fromRGBO(46, 170, 236, 1);
+  static const Color buttonBlue = Color(0xFF2EAAEC);
+  static const Color primary500 = Color(0xFF2196F3);
+  static const Color themeColor = Color(0xFF31B2F7);
+  static const Color darkBackGround = Color.fromRGBO(6, 27, 43, 1);
+}
