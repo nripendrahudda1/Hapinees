@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "264121725875",
+    "project_id": "happinest-c48d8",
+    "storage_bucket": "happinest-c48d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264121725875:android:42f9b9a91fff67b97f11c6",
+        "android_client_info": {
+          "package_name": "com.css.Happinest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264121725875-v0fo7bcd6o1tjt77ro62eihus0ga653o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.css.Happinest",
+            "certificate_hash": "c44a35b4dc569b71a3d640bc5015a5d49914775e"
+          }
+        },
+        {
+          "client_id": "264121725875-dka6tm3p9ofb0mbqtarlv8jsmk6mprg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA10Ml8xhvNvpFgu09BWKSYCTOYvQisPLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264121725875-dka6tm3p9ofb0mbqtarlv8jsmk6mprg6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264121725875-1cn3j5smvkct3nst10toph4m6qe1ggkt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.css.Happinest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
